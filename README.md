@@ -1,4 +1,4 @@
-### Halo, i am hdgaadd 👋
+### halo, i am hdgaadd 👋
 - ⚡ Algorithm, Java
 - 🌱 Never forget, there must be an echo
 
