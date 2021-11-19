@@ -4,7 +4,8 @@
 
 ![mystatus](https://github-readme-stats.vercel.app/api?username=hdgaadd&&show_icons=true&theme=vue-dark&count_private=true)
 
-
+[<img target="_blank" width = "35" height = "35" src="https://github.com/vector4wang/vector4wang/blob/master/images/csdn.png"/>](https://blog.csdn.net/qqHJQS)
+[<img target="_blank" width = "35" height = "35" src="https://github.com/vector4wang/vector4wang/blob/master/images/linkedin.png"/>]
 <!--
 **hdgaadd/hdgaadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
