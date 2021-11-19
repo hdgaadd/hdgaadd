@@ -2,13 +2,11 @@
 - ⚡ algorithm, Java
 - 🌱 never forget, there must be an echo
 
-![mystatus](https://github-readme-stats.vercel.app/api?username=hdgaadd&&show_icons=true&theme=vue-dark&count_private=true)
-
 <img align="left" alt="Vector4Wang's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hdgaadd&show_icons=true&hide_border=true" />
-<!--
-**hdgaadd/hdgaadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+<!--
+绿色展示：![mystatus](https://github-readme-stats.vercel.app/api?username=hdgaadd&&show_icons=true&theme=vue-dark&count_private=true)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
