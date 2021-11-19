@@ -3,7 +3,7 @@
 - 🌱 never forget, there must be an echo
 
 ![mystatus](https://github-readme-stats.vercel.app/api?username=hdgaadd&&show_icons=true&theme=vue-dark&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdgaadd&layout=compact&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **hdgaadd/hdgaadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
