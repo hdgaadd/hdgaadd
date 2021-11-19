@@ -4,8 +4,7 @@
 
 ![mystatus](https://github-readme-stats.vercel.app/api?username=hdgaadd&&show_icons=true&theme=vue-dark&count_private=true)
 
-[<img target="_blank" width = "35" height = "35" src="https://github.com/vector4wang/vector4wang/blob/master/images/mail.png"/>](mailto:vector4wang@qq.com)
-<a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=772704457&website=www.oicqzone.com"><img width = "35" height = "35" src="https://github.com/vector4wang/vector4wang/blob/master/images/qq.png"/></a>
+<img align="left" alt="Vector4Wang's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hdgaadd&show_icons=true&hide_border=true" />
 <!--
 **hdgaadd/hdgaadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
