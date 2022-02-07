@@ -2,7 +2,6 @@
 - 🌱 never forget, there must be an echo
 
 
-#### 🛠 Tech Stack
 
 
 
@@ -23,6 +22,7 @@
 - ⚡ Fun fact: ...
 
 
+#### 🛠 Tech Stack
 - ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Java](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
 ![Java](https://img.shields.io/badge/-SpringCloud-333333?style=flat&logo=springboot)
