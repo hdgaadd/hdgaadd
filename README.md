@@ -1,5 +1,5 @@
 ### halo, I am hdgaadd
-- 🌱 never forget, there must be an echo
+- never forget, there must be an echo
 
 
 
